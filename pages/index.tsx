@@ -21,10 +21,14 @@ export default function Home({
                 <title>{siteTitle}</title>
             </Head>
             <section className={utilStyles.headingMd}>
-                <p>[Your Self Introduction]</p>
+                <p>22 year old cs student from Aachen, Germany.</p>
                 <p>
-                    (This is a sample website - you’ll be building a site like this in{' '}
-                    <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
+                    this is my digital playground.
+                    </p>
+                <p>
+                    while some may interpret the existence of this as a showcase of some portfolio, I
+                    much rather like to refer to this as a chaotic playground where I play with new libraries
+                    for front end design, animations and data visualizations.
                 </p>
             </section>
             <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
